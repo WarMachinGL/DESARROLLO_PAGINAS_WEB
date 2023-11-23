@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mi primera página web</title>
+</head>
+
+<body>
+    <hq> ¡Hola Mundo¡</h1>
+        <h3>El comienzo de un nuevo proyecto</h3>
+        <p> Estás visualizando el contenido de <strong>mi primer página web.</strong></p>
+        <p>Nota que en la pestaña del navegador se encuentra el título de mi pagina llamada: "Mi primer pagina web"</p>
+        <p>Una<i> Página web</i>es otro medio más para poder difundir contenido por internet a todo el mundo.</p>
+    </body>
+
+</html>
