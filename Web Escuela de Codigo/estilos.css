@@ -1,0 +1,33 @@
+body{
+    background-color: #73bfaa; 
+    text-align: center;
+}
+header {
+    background-color: #322e2f;
+    color: #c5d9c8; 
+}
+nav, main{
+    background-color: #c5d9c8; 
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+main {
+    background-color: #C7DDCC
+}
+
+section {
+    background-color: #12A4D9
+}
+
+
+article  {
+    background-color: #D91494
+}
+
+footer {
+    background-color: #D9CB11
+}
